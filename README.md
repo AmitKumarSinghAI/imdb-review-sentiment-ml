@@ -34,19 +34,6 @@ This project builds a Machine Learning model to classify IMDB movie reviews as *
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook
-```
-
----
 
 ## 📌 Result
 
