@@ -47,6 +47,4 @@ IMDB Movie Reviews Dataset
 
 ---
 
-## ✨ Author
 
-Amit Kumar Singh Kurmi
