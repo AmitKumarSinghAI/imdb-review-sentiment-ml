@@ -46,5 +46,3 @@ The model predicts sentiment of movie reviews using word embeddings and ML algor
 IMDB Movie Reviews Dataset
 
 ---
-
-
