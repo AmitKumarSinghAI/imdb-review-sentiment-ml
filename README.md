@@ -34,7 +34,6 @@ This project builds a Machine Learning model to classify IMDB movie reviews as *
 
 ---
 
-
 ## 📌 Result
 
 The model predicts sentiment of movie reviews using word embeddings and ML algorithms.
